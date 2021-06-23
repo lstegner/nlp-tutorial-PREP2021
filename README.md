@@ -1,6 +1,6 @@
 # Introduction to Natural Language Processing
 ### *Prepared by Laura Stegner, stegner@wisc.edu*
-These materials were prepared for the 2021 Data Science Workshop at UW Madison for Natural Language Processing, specifically walking through an example of semantic analysis. The introductory materials are presented below. A Jupyter Notebook containing the tutorial walkthrough is located [here](https://github.com/lstegner/nlp-tutorial-PREP2021/blob/main/tutorial-materials/semantic-analysis-tutorial.ipynb).
+These materials were prepared for the 2021 Data Science Workshop at UW Madison for Natural Language Processing, specifically walking through an example of sentiment analysis. The introductory materials are presented below. A Jupyter Notebook containing the tutorial walkthrough is located [here](https://github.com/lstegner/nlp-tutorial-PREP2021/blob/main/tutorial-materials/sentiment-analysis-tutorial.ipynb).
 
 ## What is Natural Language Processing?
 Natural Language Processing (NLP) can be broadly thought of as the computational tools used to help computers understand and manipulate spoken or written natural language to do useful things. This goal can be achieved with the help of various NLP tasks, such as:
